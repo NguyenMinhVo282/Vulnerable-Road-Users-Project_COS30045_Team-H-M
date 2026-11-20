@@ -7,16 +7,16 @@
 While vehicle safety engineering has significantly improved protection for people inside cars, **Vulnerable Road Users (VRUs)**—**pedestrians, pedal cyclists, and motorcyclists**—lack external physical protection and bear a disproportionate share of severe road trauma.
 
 * **Core Question (Big Idea):** *Who carries the greatest burden of road-related hospitalisations in Australia, and which vulnerable road-user groups warrant greater priority in road safety planning?*
-* **Primary Audience:** State and Territory Road Safety Policy Planners[cite: 78, 155].
-* **Secondary Audience:** Road Safety Advocacy Organisations[cite: 78, 155].
+* **Primary Audience:** State and Territory Road Safety Policy Planners.
+* **Secondary Audience:** Road Safety Advocacy Organisations.
 
 ## Three Connected Research Questions
-1. **Temporal Trends (2011–2021):** How have hospitalised road injury patterns and Year-on-Year (YoY) growth rates changed across road-user groups, accounting for 2012 (VIC) and 2017 (NSW) reporting breaks?[cite: 79, 80, 156, 157]
-2. **Demographic Differences:** Which age groups and gender cohorts experience the greatest burden of hospitalised injuries within each VRU category?[cite: 80, 157, 158]
-3. **Healthcare Burden:** How does hospital-care duration (`Total Bed Days`, `Average Bed Days per case`) and supplementary in-hospital fatality rate differ between VRUs and car occupants?[cite: 81, 158]
+1. **Temporal Trends (2011–2021):** How have hospitalised road injury patterns and Year-on-Year (YoY) growth rates changed across road-user groups, accounting for 2012 (VIC) and 2017 (NSW) reporting breaks?
+2. **Demographic Differences:** Which age groups and gender cohorts experience the greatest burden of hospitalised injuries within each VRU category?
+3. **Healthcare Burden:** How does hospital-care duration (`Total Bed Days`, `Average Bed Days per case`) and supplementary in-hospital fatality rate differ between VRUs and car occupants?
 
 ## Data Pipeline & Preliminary EDA (KNIME)
-* **Source:** Bureau of Infrastructure and Transport Research Economics (BITRE) – *National Hospitalised Injury Dataset (2011–2021)* (`raw` worksheet, 117,919 records)[cite: 24, 25, 194].
+* **Source:** Bureau of Infrastructure and Transport Research Economics (BITRE) – *National Hospitalised Injury Dataset (2011–2021)* (`raw` worksheet, 117,919 records).
 * **Reproducible Workflow (`/knime`):** Built a 4-stage KNIME Analytics pipeline (Profiling → Cleaning & Feature Engineering → Multi-Branch Aggregation → Validation) isolating **406,646 valid road-user hospitalisation cases** and **1,981,281 total bed days**.
 * **Key Insights:**
   * **Pedal Cyclists** surged **+50.97%** (2011–2021), spiking **+14.12%** during 2020 lockdowns while car driver cases fell `-9.61%`.
@@ -29,5 +29,5 @@ While vehicle safety engineering has significantly improved protection for peopl
 * `/docs` – Stand-up presentation decks and design documentation.
 
 ## Team Members
-* **Vo Nguyen Minh** (`105505636 / SWS01230`) – Data Pipeline (KNIME), D3.js Implementation & Repository Lead[cite: 36, 97, 175]
-* **Truong Viet Hung** – Analytical Logic, Visualisation Design & Quality Assurance Lead[cite: 36, 97, 98, 175]
+* **Vo Nguyen Minh** (`105505636 / SWS01230`) – Data Pipeline (KNIME), Visualisation Design, D3.js Implementation.
+* **Truong Viet Hung** – Analytical Logic, Visualisation Design & Quality Assurance Lead
