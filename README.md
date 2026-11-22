@@ -3,6 +3,10 @@
 
 **COS30045 – Data Visualisation Project | Team H&M (Fall Semester 2026)**
 
+## Team Members
+* **Vo Nguyen Minh** (`105505636 / SWS01230`) – Data Pipeline (KNIME), Visualisation Design, D3.js Implementation.
+* **Truong Viet Hung** (`104775470 / SWS01012`) – Analytical Logic, Visualisation Design & Quality Assurance Lead
+
 ## Project Overview & Big Idea
 While vehicle safety engineering has significantly improved protection for people inside cars, **Vulnerable Road Users (VRUs)**—**pedestrians, pedal cyclists, and motorcyclists**—lack external physical protection and bear a disproportionate share of severe road trauma.
 
@@ -24,10 +28,7 @@ While vehicle safety engineering has significantly improved protection for peopl
   * **Healthcare Burden Paradox:** Pedestrians average **9.01 bed days per case** (nearly 2× car drivers at `4.54` days) and a **1.93%** in-hospital fatality rate (~4× car drivers at `0.49%`).
 
 ## Repository Structure
-* `/data` – Validated analytical CSV datasets (`q1_temporal_trends.csv`, `q2_demographics.csv`, `q3_healthcare_burden.csv`).
-* `/knime` – Reproducible KNIME workflow (`.knwf`) exported with embedded data.
-* `/docs` – Stand-up presentation decks and design documentation.
-
-## Team Members
-* **Vo Nguyen Minh** (`105505636 / SWS01230`) – Data Pipeline (KNIME), Visualisation Design, D3.js Implementation.
-* **Truong Viet Hung** – Analytical Logic, Visualisation Design & Quality Assurance Lead
+* `data/` – Validated analytical CSV datasets (`q1_temporal_trends.csv`, `q2_demographics.csv`, `q3_healthcare_burden.csv`).
+* `knime/` – Reproducible 4-stage KNIME Analytics workflow (`.knwf` with embedded data).
+* `docs/` – Stand-up 1 presentation slides and Design Book draft (Sections 1 & 2).
+* `css/` & `js/` – Modular D3.js visualisation source code *(in progress – Week 11)*.
