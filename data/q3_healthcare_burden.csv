@@ -1,0 +1,12 @@
+"Road user","VRU_Category","Sum(Count of cases)","Sum(Bed days)","Sum(Died_cases)","Average_Bed_Days","Fatality_Rate_Pct"
+"Pedestrian","Vulnerable Road Users (VRU)",29093,262180,561,9.011789777609735,1.9282989035163098
+"Heavy transport unknown position","Other Road Users",447,2996,3,6.702460850111857,0.6711409395973155
+"Car unknown position","Other Road Users",8880,57072,44,6.427027027027027,0.4954954954954955
+"Heavy transport driver","Other Road Users",4630,27056,16,5.843628509719222,0.34557235421166305
+"Pick-up truck or van occupant","Other Road Users",3002,17455,15,5.814457028647568,0.4996668887408394
+"Heavy transport passenger","Other Road Users",554,3154,1,5.693140794223827,0.18050541516245489
+"Motorcyclist","Vulnerable Road Users (VRU)",92642,504102,320,5.441398069989853,0.3454156861898491
+"Bus occupant","Other Road Users",2602,13061,18,5.0196003074558035,0.6917755572636434
+"Car passenger","Car Occupants",53577,255987,336,4.77792709558206,0.6271347779830898
+"Car driver","Car Occupants",135733,615717,670,4.536236582113414,0.4936161434581126
+"Pedal cyclist","Vulnerable Road Users (VRU)",75486,222501,124,2.9475796836499484,0.16426887104893623

@@ -1,0 +1,161 @@
+"Age group","Sex","Road user","VRU_Category","Sum(Count of cases)"
+"0-7","Female","Bus occupant","Other Road Users",17
+"0-7","Female","Car driver","Car Occupants",22
+"0-7","Female","Car passenger","Car Occupants",1726
+"0-7","Female","Car unknown position","Other Road Users",83
+"0-7","Female","Heavy transport passenger","Other Road Users",8
+"0-7","Female","Heavy transport unknown position","Other Road Users",1
+"0-7","Female","Motorcyclist","Vulnerable Road Users (VRU)",98
+"0-7","Female","Pedal cyclist","Vulnerable Road Users (VRU)",737
+"0-7","Female","Pedestrian","Vulnerable Road Users (VRU)",509
+"0-7","Female","Pick-up truck or van occupant","Other Road Users",14
+"0-7","Male","Bus occupant","Other Road Users",22
+"0-7","Male","Car driver","Car Occupants",22
+"0-7","Male","Car passenger","Car Occupants",1719
+"0-7","Male","Car unknown position","Other Road Users",72
+"0-7","Male","Heavy transport passenger","Other Road Users",6
+"0-7","Male","Motorcyclist","Vulnerable Road Users (VRU)",284
+"0-7","Male","Pedal cyclist","Vulnerable Road Users (VRU)",1562
+"0-7","Male","Pedestrian","Vulnerable Road Users (VRU)",961
+"0-7","Male","Pick-up truck or van occupant","Other Road Users",21
+"17-25","Female","Bus occupant","Other Road Users",123
+"17-25","Female","Car driver","Car Occupants",15642
+"17-25","Female","Car passenger","Car Occupants",7668
+"17-25","Female","Car unknown position","Other Road Users",941
+"17-25","Female","Heavy transport driver","Other Road Users",20
+"17-25","Female","Heavy transport passenger","Other Road Users",24
+"17-25","Female","Heavy transport unknown position","Other Road Users",3
+"17-25","Female","Motorcyclist","Vulnerable Road Users (VRU)",2085
+"17-25","Female","Pedal cyclist","Vulnerable Road Users (VRU)",1638
+"17-25","Female","Pedestrian","Vulnerable Road Users (VRU)",1925
+"17-25","Female","Pick-up truck or van occupant","Other Road Users",167
+"17-25","Male","Bus occupant","Other Road Users",96
+"17-25","Male","Car driver","Car Occupants",17766
+"17-25","Male","Car passenger","Car Occupants",7210
+"17-25","Male","Car unknown position","Other Road Users",1171
+"17-25","Male","Heavy transport driver","Other Road Users",339
+"17-25","Male","Heavy transport passenger","Other Road Users",89
+"17-25","Male","Heavy transport unknown position","Other Road Users",41
+"17-25","Male","Motorcyclist","Vulnerable Road Users (VRU)",20981
+"17-25","Male","Pedal cyclist","Vulnerable Road Users (VRU)",6494
+"17-25","Male","Pedestrian","Vulnerable Road Users (VRU)",2946
+"17-25","Male","Pick-up truck or van occupant","Other Road Users",634
+"17-25","intersex or indeterminate or missing","Car driver","Car Occupants",1
+"17-25","intersex or indeterminate or missing","Pedal cyclist","Vulnerable Road Users (VRU)",3
+"26-39","Female","Bus occupant","Other Road Users",165
+"26-39","Female","Car driver","Car Occupants",16663
+"26-39","Female","Car passenger","Car Occupants",5516
+"26-39","Female","Car unknown position","Other Road Users",1080
+"26-39","Female","Heavy transport driver","Other Road Users",29
+"26-39","Female","Heavy transport passenger","Other Road Users",36
+"26-39","Female","Heavy transport unknown position","Other Road Users",10
+"26-39","Female","Motorcyclist","Vulnerable Road Users (VRU)",2615
+"26-39","Female","Pedal cyclist","Vulnerable Road Users (VRU)",3878
+"26-39","Female","Pedestrian","Vulnerable Road Users (VRU)",2047
+"26-39","Female","Pick-up truck or van occupant","Other Road Users",129
+"26-39","Male","Bus occupant","Other Road Users",138
+"26-39","Male","Car driver","Car Occupants",18687
+"26-39","Male","Car passenger","Car Occupants",4212
+"26-39","Male","Car unknown position","Other Road Users",1245
+"26-39","Male","Heavy transport driver","Other Road Users",1180
+"26-39","Male","Heavy transport passenger","Other Road Users",92
+"26-39","Male","Heavy transport unknown position","Other Road Users",86
+"26-39","Male","Motorcyclist","Vulnerable Road Users (VRU)",23779
+"26-39","Male","Pedal cyclist","Vulnerable Road Users (VRU)",12870
+"26-39","Male","Pedestrian","Vulnerable Road Users (VRU)",3343
+"26-39","Male","Pick-up truck or van occupant","Other Road Users",608
+"26-39","intersex or indeterminate or missing","Car driver","Car Occupants",2
+"26-39","intersex or indeterminate or missing","Car unknown position","Other Road Users",1
+"26-39","intersex or indeterminate or missing","Motorcyclist","Vulnerable Road Users (VRU)",2
+"40-64","Female","Bus occupant","Other Road Users",460
+"40-64","Female","Car driver","Car Occupants",21178
+"40-64","Female","Car passenger","Car Occupants",7050
+"40-64","Female","Car unknown position","Other Road Users",1270
+"40-64","Female","Heavy transport driver","Other Road Users",69
+"40-64","Female","Heavy transport passenger","Other Road Users",59
+"40-64","Female","Heavy transport unknown position","Other Road Users",21
+"40-64","Female","Motorcyclist","Vulnerable Road Users (VRU)",3849
+"40-64","Female","Pedal cyclist","Vulnerable Road Users (VRU)",6733
+"40-64","Female","Pedestrian","Vulnerable Road Users (VRU)",3329
+"40-64","Female","Pick-up truck or van occupant","Other Road Users",181
+"40-64","Male","Bus occupant","Other Road Users",317
+"40-64","Male","Car driver","Car Occupants",21346
+"40-64","Male","Car passenger","Car Occupants",3378
+"40-64","Male","Car unknown position","Other Road Users",1395
+"40-64","Male","Heavy transport driver","Other Road Users",2682
+"40-64","Male","Heavy transport passenger","Other Road Users",138
+"40-64","Male","Heavy transport unknown position","Other Road Users",239
+"40-64","Male","Motorcyclist","Vulnerable Road Users (VRU)",29761
+"40-64","Male","Pedal cyclist","Vulnerable Road Users (VRU)",23685
+"40-64","Male","Pedestrian","Vulnerable Road Users (VRU)",4095
+"40-64","Male","Pick-up truck or van occupant","Other Road Users",852
+"40-64","intersex or indeterminate or missing","Bus occupant","Other Road Users",1
+"40-64","intersex or indeterminate or missing","Car driver","Car Occupants",2
+"40-64","intersex or indeterminate or missing","Car passenger","Car Occupants",1
+"40-64","intersex or indeterminate or missing","Pedal cyclist","Vulnerable Road Users (VRU)",1
+"65-74","Female","Bus occupant","Other Road Users",243
+"65-74","Female","Car driver","Car Occupants",5651
+"65-74","Female","Car passenger","Car Occupants",2951
+"65-74","Female","Car unknown position","Other Road Users",364
+"65-74","Female","Heavy transport driver","Other Road Users",5
+"65-74","Female","Heavy transport passenger","Other Road Users",17
+"65-74","Female","Heavy transport unknown position","Other Road Users",4
+"65-74","Female","Motorcyclist","Vulnerable Road Users (VRU)",263
+"65-74","Female","Pedal cyclist","Vulnerable Road Users (VRU)",1178
+"65-74","Female","Pedestrian","Vulnerable Road Users (VRU)",1542
+"65-74","Female","Pick-up truck or van occupant","Other Road Users",41
+"65-74","Male","Bus occupant","Other Road Users",156
+"65-74","Male","Car driver","Car Occupants",5642
+"65-74","Male","Car passenger","Car Occupants",845
+"65-74","Male","Car unknown position","Other Road Users",279
+"65-74","Male","Heavy transport driver","Other Road Users",265
+"65-74","Male","Heavy transport passenger","Other Road Users",24
+"65-74","Male","Heavy transport unknown position","Other Road Users",31
+"65-74","Male","Motorcyclist","Vulnerable Road Users (VRU)",2861
+"65-74","Male","Pedal cyclist","Vulnerable Road Users (VRU)",3959
+"65-74","Male","Pedestrian","Vulnerable Road Users (VRU)",1304
+"65-74","Male","Pick-up truck or van occupant","Other Road Users",154
+"65-74","intersex or indeterminate or missing","Pedestrian","Vulnerable Road Users (VRU)",1
+"75+","Female","Bus occupant","Other Road Users",548
+"75+","Female","Car driver","Car Occupants",5752
+"75+","Female","Car passenger","Car Occupants",3546
+"75+","Female","Car unknown position","Other Road Users",376
+"75+","Female","Heavy transport driver","Other Road Users",1
+"75+","Female","Heavy transport passenger","Other Road Users",16
+"75+","Female","Heavy transport unknown position","Other Road Users",3
+"75+","Female","Motorcyclist","Vulnerable Road Users (VRU)",113
+"75+","Female","Pedal cyclist","Vulnerable Road Users (VRU)",235
+"75+","Female","Pedestrian","Vulnerable Road Users (VRU)",1970
+"75+","Female","Pick-up truck or van occupant","Other Road Users",27
+"75+","Male","Bus occupant","Other Road Users",194
+"75+","Male","Car driver","Car Occupants",6697
+"75+","Male","Car passenger","Car Occupants",1132
+"75+","Male","Car unknown position","Other Road Users",293
+"75+","Male","Heavy transport driver","Other Road Users",38
+"75+","Male","Heavy transport passenger","Other Road Users",11
+"75+","Male","Heavy transport unknown position","Other Road Users",1
+"75+","Male","Motorcyclist","Vulnerable Road Users (VRU)",787
+"75+","Male","Pedal cyclist","Vulnerable Road Users (VRU)",1567
+"75+","Male","Pedestrian","Vulnerable Road Users (VRU)",1900
+"75+","Male","Pick-up truck or van occupant","Other Road Users",73
+"8-16","Female","Bus occupant","Other Road Users",71
+"8-16","Female","Car driver","Car Occupants",253
+"8-16","Female","Car passenger","Car Occupants",3609
+"8-16","Female","Car unknown position","Other Road Users",153
+"8-16","Female","Heavy transport passenger","Other Road Users",5
+"8-16","Female","Heavy transport unknown position","Other Road Users",3
+"8-16","Female","Motorcyclist","Vulnerable Road Users (VRU)",627
+"8-16","Female","Pedal cyclist","Vulnerable Road Users (VRU)",1839
+"8-16","Female","Pedestrian","Vulnerable Road Users (VRU)",1238
+"8-16","Female","Pick-up truck or van occupant","Other Road Users",37
+"8-16","Male","Bus occupant","Other Road Users",51
+"8-16","Male","Car driver","Car Occupants",407
+"8-16","Male","Car passenger","Car Occupants",3014
+"8-16","Male","Car unknown position","Other Road Users",157
+"8-16","Male","Heavy transport driver","Other Road Users",2
+"8-16","Male","Heavy transport passenger","Other Road Users",29
+"8-16","Male","Heavy transport unknown position","Other Road Users",4
+"8-16","Male","Motorcyclist","Vulnerable Road Users (VRU)",4537
+"8-16","Male","Pedal cyclist","Vulnerable Road Users (VRU)",9107
+"8-16","Male","Pedestrian","Vulnerable Road Users (VRU)",1983
+"8-16","Male","Pick-up truck or van occupant","Other Road Users",64

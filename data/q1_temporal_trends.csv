@@ -1,0 +1,122 @@
+"Calendar year","Road user","VRU_Category","Sum(Count of cases)","Sum(Bed days)","Sum(Count of cases)(-1)","YoY_Change_Pct","Iteration"
+2011,"Bus occupant","Other Road Users",215,755,,,0
+2012,"Bus occupant","Other Road Users",217,889,215,0.9302325581395349,0
+2013,"Bus occupant","Other Road Users",226,978,217,4.147465437788019,0
+2014,"Bus occupant","Other Road Users",291,1484,226,28.761061946902654,0
+2015,"Bus occupant","Other Road Users",248,1467,291,-14.776632302405499,0
+2016,"Bus occupant","Other Road Users",289,1871,248,16.532258064516128,0
+2017,"Bus occupant","Other Road Users",270,1577,289,-6.5743944636678195,0
+2018,"Bus occupant","Other Road Users",249,1509,270,-7.777777777777778,0
+2019,"Bus occupant","Other Road Users",255,933,249,2.4096385542168677,0
+2020,"Bus occupant","Other Road Users",173,845,255,-32.15686274509804,0
+2021,"Bus occupant","Other Road Users",169,753,173,-2.312138728323699,0
+2011,"Car driver","Car Occupants",11029,48223,,,1
+2012,"Car driver","Car Occupants",10885,47741,11029,-1.3056487442197844,1
+2013,"Car driver","Car Occupants",11003,42684,10885,1.0840606338998622,1
+2014,"Car driver","Car Occupants",11191,42332,11003,1.7086249204762336,1
+2015,"Car driver","Car Occupants",12247,58428,11191,9.436154052363506,1
+2016,"Car driver","Car Occupants",13284,69889,12247,8.467379766473423,1
+2017,"Car driver","Car Occupants",13331,64017,13284,0.35380909364649205,1
+2018,"Car driver","Car Occupants",13648,63980,13331,2.3779161353236815,1
+2019,"Car driver","Car Occupants",13545,61838,13648,-0.7546893317702227,1
+2020,"Car driver","Car Occupants",12243,55181,13545,-9.612403100775193,1
+2021,"Car driver","Car Occupants",13327,61404,12243,8.854039042718288,1
+2011,"Car passenger","Car Occupants",4900,22132,,,2
+2012,"Car passenger","Car Occupants",4782,20944,4900,-2.4081632653061225,2
+2013,"Car passenger","Car Occupants",4858,19941,4782,1.589293182768716,2
+2014,"Car passenger","Car Occupants",4661,19867,4858,-4.055166735282009,2
+2015,"Car passenger","Car Occupants",4991,24706,4661,7.080025745548165,2
+2016,"Car passenger","Car Occupants",5139,27116,4991,2.965337607693849,2
+2017,"Car passenger","Car Occupants",5131,25044,5139,-0.15567230978789648,2
+2018,"Car passenger","Car Occupants",5240,26852,5131,2.1243422334827518,2
+2019,"Car passenger","Car Occupants",5025,24360,5240,-4.103053435114504,2
+2020,"Car passenger","Car Occupants",4355,23555,5025,-13.333333333333334,2
+2021,"Car passenger","Car Occupants",4495,21470,4355,3.214695752009185,2
+2011,"Car unknown position","Other Road Users",895,4024,,,3
+2012,"Car unknown position","Other Road Users",898,3969,895,0.33519553072625696,3
+2013,"Car unknown position","Other Road Users",825,3231,898,-8.129175946547884,3
+2014,"Car unknown position","Other Road Users",731,2864,825,-11.393939393939394,3
+2015,"Car unknown position","Other Road Users",818,4752,731,11.901504787961697,3
+2016,"Car unknown position","Other Road Users",818,5229,818,0,3
+2017,"Car unknown position","Other Road Users",780,6593,818,-4.645476772616137,3
+2018,"Car unknown position","Other Road Users",866,7599,780,11.025641025641026,3
+2019,"Car unknown position","Other Road Users",798,6315,866,-7.852193995381063,3
+2020,"Car unknown position","Other Road Users",734,5734,798,-8.020050125313283,3
+2021,"Car unknown position","Other Road Users",717,6762,734,-2.316076294277929,3
+2011,"Heavy transport driver","Other Road Users",456,2024,,,4
+2012,"Heavy transport driver","Other Road Users",417,2036,456,-8.552631578947368,4
+2013,"Heavy transport driver","Other Road Users",417,2290,417,0,4
+2014,"Heavy transport driver","Other Road Users",377,1860,417,-9.59232613908873,4
+2015,"Heavy transport driver","Other Road Users",444,2392,377,17.771883289124666,4
+2016,"Heavy transport driver","Other Road Users",406,3207,444,-8.558558558558559,4
+2017,"Heavy transport driver","Other Road Users",450,2751,406,10.83743842364532,4
+2018,"Heavy transport driver","Other Road Users",441,2748,450,-2,4
+2019,"Heavy transport driver","Other Road Users",427,2751,441,-3.1746031746031744,4
+2020,"Heavy transport driver","Other Road Users",412,2524,427,-3.51288056206089,4
+2021,"Heavy transport driver","Other Road Users",383,2473,412,-7.038834951456311,4
+2011,"Heavy transport passenger","Other Road Users",52,290,,,5
+2012,"Heavy transport passenger","Other Road Users",47,226,52,-9.615384615384617,5
+2013,"Heavy transport passenger","Other Road Users",40,179,47,-14.893617021276595,5
+2014,"Heavy transport passenger","Other Road Users",55,459,40,37.5,5
+2015,"Heavy transport passenger","Other Road Users",44,340,55,-20,5
+2016,"Heavy transport passenger","Other Road Users",42,273,44,-4.545454545454546,5
+2017,"Heavy transport passenger","Other Road Users",49,252,42,16.666666666666664,5
+2018,"Heavy transport passenger","Other Road Users",69,217,49,40.816326530612244,5
+2019,"Heavy transport passenger","Other Road Users",52,282,69,-24.637681159420293,5
+2020,"Heavy transport passenger","Other Road Users",48,399,52,-7.6923076923076925,5
+2021,"Heavy transport passenger","Other Road Users",56,237,48,16.666666666666664,5
+2011,"Heavy transport unknown position","Other Road Users",55,250,,,6
+2012,"Heavy transport unknown position","Other Road Users",48,170,55,-12.727272727272727,6
+2013,"Heavy transport unknown position","Other Road Users",30,73,48,-37.5,6
+2014,"Heavy transport unknown position","Other Road Users",48,249,30,60,6
+2015,"Heavy transport unknown position","Other Road Users",24,221,48,-50,6
+2016,"Heavy transport unknown position","Other Road Users",39,376,24,62.5,6
+2017,"Heavy transport unknown position","Other Road Users",32,102,39,-17.94871794871795,6
+2018,"Heavy transport unknown position","Other Road Users",48,615,32,50,6
+2019,"Heavy transport unknown position","Other Road Users",47,557,48,-2.083333333333333,6
+2020,"Heavy transport unknown position","Other Road Users",40,222,47,-14.893617021276595,6
+2021,"Heavy transport unknown position","Other Road Users",36,161,40,-10,6
+2011,"Motorcyclist","Vulnerable Road Users (VRU)",7599,37740,,,7
+2012,"Motorcyclist","Vulnerable Road Users (VRU)",7774,37675,7599,2.302934596657455,7
+2013,"Motorcyclist","Vulnerable Road Users (VRU)",8054,37724,7774,3.6017494211474146,7
+2014,"Motorcyclist","Vulnerable Road Users (VRU)",8361,36490,8054,3.8117705487956295,7
+2015,"Motorcyclist","Vulnerable Road Users (VRU)",8341,45145,8361,-0.2392058366224136,7
+2016,"Motorcyclist","Vulnerable Road Users (VRU)",8562,53443,8341,2.6495624025896176,7
+2017,"Motorcyclist","Vulnerable Road Users (VRU)",8765,52923,8562,2.3709413688390564,7
+2018,"Motorcyclist","Vulnerable Road Users (VRU)",8651,51307,8765,-1.30062749572162,7
+2019,"Motorcyclist","Vulnerable Road Users (VRU)",8954,53986,8651,3.5024852618194426,7
+2020,"Motorcyclist","Vulnerable Road Users (VRU)",8698,47748,8954,-2.85905740451195,7
+2021,"Motorcyclist","Vulnerable Road Users (VRU)",8883,49921,8698,2.1269257300528857,7
+2011,"Pedal cyclist","Vulnerable Road Users (VRU)",5407,15294,,,8
+2012,"Pedal cyclist","Vulnerable Road Users (VRU)",5630,15749,5407,4.124283336415758,8
+2013,"Pedal cyclist","Vulnerable Road Users (VRU)",6277,17344,5630,11.492007104795738,8
+2014,"Pedal cyclist","Vulnerable Road Users (VRU)",6652,17507,6277,5.974191492751315,8
+2015,"Pedal cyclist","Vulnerable Road Users (VRU)",6728,19062,6652,1.142513529765484,8
+2016,"Pedal cyclist","Vulnerable Road Users (VRU)",6919,20732,6728,2.838882282996433,8
+2017,"Pedal cyclist","Vulnerable Road Users (VRU)",7085,21615,6919,2.3991906344847522,8
+2018,"Pedal cyclist","Vulnerable Road Users (VRU)",6973,20834,7085,-1.5808045165843332,8
+2019,"Pedal cyclist","Vulnerable Road Users (VRU)",7310,22900,6973,4.832927004158898,8
+2020,"Pedal cyclist","Vulnerable Road Users (VRU)",8342,24699,7310,14.117647058823529,8
+2021,"Pedal cyclist","Vulnerable Road Users (VRU)",8163,26765,8342,-2.1457684008631026,8
+2011,"Pedestrian","Vulnerable Road Users (VRU)",2822,21233,,,9
+2012,"Pedestrian","Vulnerable Road Users (VRU)",2731,19336,2822,-3.2246633593196314,9
+2013,"Pedestrian","Vulnerable Road Users (VRU)",2718,18513,2731,-0.4760161113145368,9
+2014,"Pedestrian","Vulnerable Road Users (VRU)",2611,18077,2718,-3.9367181751287714,9
+2015,"Pedestrian","Vulnerable Road Users (VRU)",2686,22644,2611,2.872462657985446,9
+2016,"Pedestrian","Vulnerable Road Users (VRU)",2813,30773,2686,4.728220402084885,9
+2017,"Pedestrian","Vulnerable Road Users (VRU)",2773,31780,2813,-1.4219694276573054,9
+2018,"Pedestrian","Vulnerable Road Users (VRU)",2716,26722,2773,-2.0555355210962856,9
+2019,"Pedestrian","Vulnerable Road Users (VRU)",2763,28697,2716,1.7304860088365244,9
+2020,"Pedestrian","Vulnerable Road Users (VRU)",2126,21672,2763,-23.054650741947157,9
+2021,"Pedestrian","Vulnerable Road Users (VRU)",2334,22733,2126,9.783631232361243,9
+2011,"Pick-up truck or van occupant","Other Road Users",251,1264,,,10
+2012,"Pick-up truck or van occupant","Other Road Users",277,1466,251,10.358565737051793,10
+2013,"Pick-up truck or van occupant","Other Road Users",231,1353,277,-16.60649819494585,10
+2014,"Pick-up truck or van occupant","Other Road Users",241,1101,231,4.329004329004329,10
+2015,"Pick-up truck or van occupant","Other Road Users",249,1380,241,3.319502074688797,10
+2016,"Pick-up truck or van occupant","Other Road Users",298,2250,249,19.67871485943775,10
+2017,"Pick-up truck or van occupant","Other Road Users",272,1845,298,-8.724832214765101,10
+2018,"Pick-up truck or van occupant","Other Road Users",280,1895,272,2.941176470588235,10
+2019,"Pick-up truck or van occupant","Other Road Users",262,1390,280,-6.428571428571428,10
+2020,"Pick-up truck or van occupant","Other Road Users",300,1536,262,14.50381679389313,10
+2021,"Pick-up truck or van occupant","Other Road Users",341,1975,300,13.666666666666666,10
